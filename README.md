@@ -66,7 +66,8 @@
   <div class="item"><a href="链接15" target="_blank"><img src="图片15.jpg"></a></div>
   <div class="item"><a href="链接16" target="_blank"><img src="图片16.jpg"></a></div>
 
-  <div class="item"><a href="链接17" target="_blank"><img src="图片17.jpg"></a></div>
+  <div class="item"><a href="链接17" target="_blank"><img src=" <img width="271" height="346" alt="屏幕截图 2026-02-01 020936" src="https://github.com/user-attachments/assets/3f6e1f66-5304-4eb0-a8c0-c00928877514" />
+"></a></div>
   <div class="item"><a href="链接18" target="_blank"><img src="图片18.jpg"></a></div>
   <div class="item"><a href="链接19" target="_blank"><img src="图片19.jpg"></a></div>
   <div class="item"><a href="链接20" target="_blank"><img src="图片20.jpg"></a></div>
